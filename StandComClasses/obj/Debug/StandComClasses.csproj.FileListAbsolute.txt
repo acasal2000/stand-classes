@@ -1,0 +1,7 @@
+C:\Users\andre\Desktop\Programação\C#\Aprendizagem\Classes\StandComClasses\StandComClasses\bin\Debug\StandComClasses.exe.config
+C:\Users\andre\Desktop\Programação\C#\Aprendizagem\Classes\StandComClasses\StandComClasses\bin\Debug\StandComClasses.exe
+C:\Users\andre\Desktop\Programação\C#\Aprendizagem\Classes\StandComClasses\StandComClasses\bin\Debug\StandComClasses.pdb
+C:\Users\andre\Desktop\Programação\C#\Aprendizagem\Classes\StandComClasses\StandComClasses\obj\Debug\StandComClasses.csprojAssemblyReference.cache
+C:\Users\andre\Desktop\Programação\C#\Aprendizagem\Classes\StandComClasses\StandComClasses\obj\Debug\StandComClasses.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Programação\C#\Aprendizagem\Classes\StandComClasses\StandComClasses\obj\Debug\StandComClasses.exe
+C:\Users\andre\Desktop\Programação\C#\Aprendizagem\Classes\StandComClasses\StandComClasses\obj\Debug\StandComClasses.pdb
